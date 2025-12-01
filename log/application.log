@@ -1,0 +1,6 @@
+2025-12-01 11:31:33 TRACE Main:14 - This is trace : ☕
+2025-12-01 11:31:33 DEBUG Main:15 - This is debug : ☕
+2025-12-01 11:31:33 INFO  Main:16 - This is info : ☕
+2025-12-01 11:31:33 WARN  Main:17 - This is warn : ☕
+2025-12-01 11:31:33 ERROR Main:18 - This is error : ☕
+2025-12-01 11:31:33 FATAL Main:19 - This is fatal : ☕
